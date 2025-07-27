@@ -3,7 +3,7 @@
 A simple and powerful Weather API built using **Node.js**, **Express**, and **Axios**, integrated with the **OpenWeatherMap API**, and containerized using **Docker**.
 
 [![Node.js Version](https://img.shields.io/badge/Node.js-v16.0.0-green)](https://nodejs.org/)
-[![Docker Build Status](https://img.shields.io/docker/build/your-username/weather-api)](https://hub.docker.com/r/your-username/weather-api)
+[![Docker Build Status](https://img.shields.io/docker/build/your-username/weather-api)](https://hub.docker.com/r/ritesh355/weather-api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
@@ -119,7 +119,7 @@ http://localhost:3000/weather?city=delhi
 ## 👨‍💻 Author
 
 **Ritesh Singh**  
-🌐 [LinkedIn](#) | 📝 [Hashnode](#)
+🌐 [LinkedIn](https://www.linkedin.com/in/ritesh-singh-092b84340/) | 📝 [Hashnode](https://ritesh-devops.hashnode.dev/)
 
 ---
 
