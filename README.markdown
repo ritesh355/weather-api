@@ -122,6 +122,9 @@ http://localhost:3000/weather?city=delhi
 🌐 [LinkedIn](https://www.linkedin.com/in/ritesh-singh-092b84340/) | 📝 [Hashnode](https://ritesh-devops.hashnode.dev/)
 
 ---
+![Weather API Screenshot](./weather-demo.png)
+
+---
 
 ## 📄 License
 
